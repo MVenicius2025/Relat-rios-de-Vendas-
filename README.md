@@ -25,7 +25,7 @@ O objetivo é construir um dashboard interativo e visualmente atraente utilizand
 - Página 1: KPIs principais, gráficos de vendas e botões de navegação.  
 - Página 2: Detalhamento por país, ano e categoria de produto.  
 
----
+----
 
 ## 🔗 Links Úteis
 - Dataset original: [Financials Sample](https://github.com/julianazanelatto/power_bi_analyst)  
